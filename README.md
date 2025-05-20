@@ -32,3 +32,19 @@ terraform-aws-vpc-setup/
 ├── outputs.tf
 ├── terraform.tfvars
 └── README.md
+
+
+# 🚀 Terraform AWS VPC Setup
+
+This project provisions a complete AWS Virtual Private Cloud (VPC) environment using Terraform. It includes:
+
+- A custom VPC
+- Public and private subnets
+- Internet Gateway and route tables
+- EC2 instance (Apache installed via user-data)
+- Security group for SSH and HTTP access
+
+---
+
+## 🗺️ Architecture Diagram
+
