@@ -48,3 +48,6 @@ This project provisions a complete AWS Virtual Private Cloud (VPC) environment u
 
 ## 🗺️ Architecture Diagram
 
+## 📸 EC2 Instance Screenshot
+
+![EC2 Screenshot](./screenshots/ec2-instance.png)
